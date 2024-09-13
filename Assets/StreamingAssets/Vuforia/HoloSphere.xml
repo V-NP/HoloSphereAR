@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mcdonalds" size="1.000000 0.757109" />
+    <ImageTarget name="max" size="1.000000 0.640625" />
+    <ImageTarget name="burger-king" size="1.000000 0.562500" />
+  </Tracking>
+</QCARConfig>

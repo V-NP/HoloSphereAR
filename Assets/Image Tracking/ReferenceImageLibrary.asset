@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5620850297398710395
+  m_GuidHigh: 10915547949082759103
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5739062519800673586
+      m_GuidHigh: 13469209065627117722
+    m_SerializedTextureGuid:
+      m_GuidLow: 15232529997964191646
+      m_GuidHigh: 6619455040963932377
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Burger-King-Logo
+    m_Texture: {fileID: 2800000, guid: e723279ed153d364d9f052d34907dd5b, type: 3}
